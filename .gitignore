@@ -1,0 +1,14 @@
+.gradle
+.gradle/*
+build
+build/*
+test
+test/*
+.idea/
+.idea/*
+.g8/
+.g8/*
+target
+target/*
+logs
+logs/*
